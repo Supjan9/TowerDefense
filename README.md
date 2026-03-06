@@ -17,4 +17,4 @@ Select turrets and place them along the dark walls<br>
 You can set 2 blocks in each game<br>
 Enemy pathfinding improves with each wave<br>
 You start with 20 hitpoints – each surviving enemy reduces your hitpoints by 1<br>
-Earn coins for each enemy kill to spend in the shop<br>
+Earn coins for each enemy killed to spend in the shop<br>
