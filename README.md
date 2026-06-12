@@ -16,5 +16,5 @@ Press the start button to begin the game<br>
 Select turrets and place them along the dark walls<br>
 You can set 2 blocks in each game<br>
 Enemy pathfinding improves with each wave<br>
-You start with 20 hitpoints – each surviving enemy reduces your hitpoints by 1<br>
+You start with 20 hitpoints and each surviving enemy reduces your hitpoints by 1<br>
 Earn coins for each enemy killed to spend in the shop<br>
